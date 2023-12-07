@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: black;
+    justify-content: center;
+     align-items: center;
+     height: 50%;
+  
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+ h1{
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+}
+#imageFavorie{
+  padding-left:20% ;
+   display: flex;
+   gap: 1rem;
+   color: white;
+   height: 50px;
+   background-color: rgb(37, 34, 34);
+}
+h2{
+    text-align: center; 
+    justify-content: center;
+    padding-top: 15px;
+}
+i{
+    color: #fff;
+    font-size: 3rem !important;
+}
+#icon{
+    padding-top: 10px;
+    font-size: 2rem !important; 
+}
